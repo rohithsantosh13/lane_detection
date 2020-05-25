@@ -1,4 +1,4 @@
-# lane_detection
+# lane_detection_using_opencv
 
 *** note the python files "rohith.py" and "test02.py" shiould be located in the same path along with video  ***
 
