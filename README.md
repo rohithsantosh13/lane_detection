@@ -1,10 +1,10 @@
 # lane_detection
 
-*** note the python files rohith and test02 shiould be loacted in the same path  ***
+*** note the python files "rohith.py" and "test02.py" shiould be located in the same path along with video  ***
 
-rohith contains the finctions used in the project
+"rohith.py" contains the finctions used in the project
 
-main code of the project is in the test02 file
+main code of the project is in the "test02.py" file
 
 if you try to run it on real time you would be getting an error and sorry for that and if you solve it please feel free to leave a comment on this repository.  
 
